@@ -1,0 +1,34 @@
+The Load Flow converged in 2 iterations !              
+                                                       
+                                                       
+                                                       
+                                                       
+SUMMARY for subnetwork No 1                            
+                                                       
+  Total generation  : P=      7.59 MW Q=   -199.30 Mvar
+  Total PQ load     : P=     -0.00 MW Q=     -0.00 Mvar
+  Total Zshunt load : P=     -0.00 MW Q=      0.00 Mvar
+  Total ASM load    : P=      0.00 MW Q=      0.00 Mvar
+  Total losses      : P=      7.59 MW Q=   -199.30 Mvar
+                                                       
+                                                       
+1 : Bus*1*  V= 1.000 pu/345kV 0.00 deg  ; Swing bus    
+        Generation : P=  307.59 MW Q= -218.35 Mvar     
+        PQ_load    : P=    0.00 MW Q=    0.00 Mvar     
+        Z_shunt    : P=   -0.00 MW Q=   -0.00 Mvar     
+   -->  Bus*2*     : P=   67.54 MW Q= -151.29 Mvar     
+   -->  Bus*3*     : P=  240.05 MW Q=  -67.06 Mvar     
+                                                       
+2 : Bus*2*  V= 1.050 pu/345kV -2.02 deg                
+        Generation : P=  200.00 MW Q=  119.05 Mvar     
+        PQ_load    : P=    0.00 MW Q=    0.00 Mvar     
+        Z_shunt    : P=    0.00 MW Q=    0.00 Mvar     
+   -->  Bus*1*     : P=  -66.76 MW Q=   74.80 Mvar     
+   -->  Bus*3*     : P=  266.76 MW Q=   44.25 Mvar     
+                                                       
+3 : Bus*3*  V= 1.005 pu/345kV -8.65 deg                
+        Generation : P= -500.00 MW Q= -100.00 Mvar     
+        PQ_load    : P=   -0.00 MW Q=   -0.00 Mvar     
+        Z_shunt    : P=   -0.00 MW Q=   -0.00 Mvar     
+   -->  Bus*1*     : P= -236.53 MW Q=   -4.69 Mvar     
+   -->  Bus*2*     : P= -263.47 MW Q=  -95.31 Mvar     
